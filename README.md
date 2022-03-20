@@ -1,3 +1,3 @@
-# test-merge-and-conflits
+#LOCAL
 on ajoute qlq lignes
 de text sur le fichier
