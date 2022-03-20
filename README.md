@@ -1,3 +1,3 @@
-# test-merge-and-conflits
+ROMOTE
 on ajoute qlq lignes
 de text sur le fichier
